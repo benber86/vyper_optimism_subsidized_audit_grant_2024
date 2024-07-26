@@ -110,7 +110,9 @@
 5. Vyper is a programming language not a deployed protocol, although several Vyper contracts are already deployed on Optimism. This grant will however specifically target projects deploying exclusively or primarily on Optimism. 
 
 ### External Contributions:
+
 **Use of Grant-as-a-service provider:** No
+
 **Contributions from non-team members:** No
 
 ### Milestones
