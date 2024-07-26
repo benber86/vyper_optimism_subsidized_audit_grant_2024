@@ -62,7 +62,7 @@
 
 1. We plan to advertise the possibility of getting grant-funded audits to new projects and established project who are planning to expand their protocol with Vyper contracts. Projects should be deploying their contracts on the Optimism Superchain and the Vyper team will vet the quality of applicants and the potential positive impact of their product on Optimism.
 2. Our target audience is developers launching new products on the Superchain as well as existing projects who are switching to Vyper. We expect the former to be developers with a good knowledge of Python but perhaps a more limited experience of web3 building. The latter are existing projects who are rewriting and redeploying existing contracts to Vyper or deploying new contracts written in Vyper. We will require both our target audiences to be strongly aligned with Optimism and Ethereum.
-3. Deploying on Optimism is a pre-requesite for receiving audit funding within the scope of this grant. When assessing projects, we will take into consideration their potential impact on Optimism (in terms of # contract interactions, TVL, team members).
+3. Deploying on Optimism is a pre-requisite for receiving audit funding within the scope of this grant. When assessing projects, we will take into consideration their potential impact on Optimism (in terms of # contract interactions, TVL, team members).
 4. Our main competitor on Optimism is Solidity. Other languages are hardly represented.
 
 ### Metrics improved by OP incentives
