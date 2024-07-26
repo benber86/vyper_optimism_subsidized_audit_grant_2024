@@ -6,7 +6,7 @@
 
 **OP request for User Incentives:** 250,000
 
-**L2 Recipient Address:** `0x7e2775779a97F54168AB70B26cA4a8179966c6A4`
+**L2 Recipient Address:** `0x7e2775779a97F54168AB70B26cA4a8179966c6A4_change_to_new_msig`
 
 **Please briefly explain how we will be able to confirm that the OP has been spent:** If the OP is not in contracts or aforementioned wallet, it has been spent.
 
@@ -89,4 +89,22 @@
 3. We estimate that each project will get funded within a range of 12 to 35% of the total amount of tokens received. The amount of the subsidy that each project receives will depend both on the amount quoted by our partner auditors for their codebase and on the perceived quality and impact of the project for Optimism. We may not subsidize the entire cost of an audit even if it is below the $150k threshold.
 4. The distribution timeline will be dependent upon the flow of applications. However, once an application is successful we will arrange to transfer the tokens covering the subsidy directly to the auditor - either as OP tokens or after swapping to a stablecoin (depending on the policy of each auditor). We estimate that all tokens will be distributed within a year after reception by the Vyper team.
 5. The subsidies are meant to help projects deploy on Optimism by subsidizing and potentially speeding up the auditing process. We will select projects based on their impact and long-term alignment with Optimism to ensure that they continue to deploy, grow and bring new users to the Superchain long after their initial deployment.
-6. The optimism Vyper multisig is 
+6. The Vyper optimism multisig for this project is  `0x7e2775779a97F54168AB70B26cA4a8179966c6A4_change_to_new_msig`. The multisig will only be used to claim and distribute tokens from this grant. If the OP is not in contracts or this wallet, it has been spent.
+
+### Optimism relationship
+
+**Please briefly answer all Optimism relationship questions**
+
+```
+1. Problem solved for Optimism
+2. Value proposition
+3. Growth potential for Optimism
+4. Commitment to building on Optimism
+5. Deployment status (exclusively on Optimism, on Optimism and other networks, not yet deployed, etc.):
+```
+
+1. Within the scope of the current grant, we help grow the number of active developers and high-quality projects on Optimism by reducing barriers to entry through subsidized audits for Vyper-based projects.
+2. We provide value to Optimism by attracting new developers, new protocols and their communities to Optimism. By facilitating audits with high quality auditors, we also improve the overall security of the Optimism ecosystem 
+3. Growth potential for Optimism is significant as Python is the currently the most popular programming language among developers and Vyper offers a quick and simple way to onboard them to web3. The Vyper community is very tight-knit and offers excellent support to new developers. By offering audit incentives, we also encourage new projects to deploy on Optimism and bring their community to the Superchain. The improved security from audited contracts will also increase user trust and adoption. 
+4. Vyper is a long-time supporter of the Optimism ecosystem, going back to the days of the OVM (which Vyper supported). We have also benefitted from Optimism's grant programs and are committed to help onboard new Vyper users to the Superchain. We will make subsidies conditional on Optimism deployment. 
+5. Vyper is a programming language not a deployed protocol, although several Vyper contracts are already deployed on Optimism. This grant will however specifically target projects deploying exclusively or primarily on Optimism. 
