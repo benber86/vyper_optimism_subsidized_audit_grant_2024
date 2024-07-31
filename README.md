@@ -6,7 +6,7 @@
 
 **OP request for User Incentives:** 250,000
 
-**L2 Recipient Address:** `0x7e2775779a97F54168AB70B26cA4a8179966c6A4_change_to_new_msig`
+**L2 Recipient Address:** `0x7e2775779a97F54168AB70B26cA4a8179966c6A4`
 
 **Please briefly explain how we will be able to confirm that the OP has been spent:** If the OP is not in contracts or aforementioned wallet, it has been spent.
 
