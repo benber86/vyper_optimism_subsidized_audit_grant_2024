@@ -6,7 +6,7 @@
 
 **OP request for User Incentives:** 250,000
 
-**L2 Recipient Address:** `0x7e2775779a97F54168AB70B26cA4a8179966c6A4_change_to_new_msig`
+**L2 Recipient Address:** `oeth:0x10E13a2bbD74b31A35d419f374e49c891748352B`
 
 **Please briefly explain how we will be able to confirm that the OP has been spent:** If the OP is not in contracts or aforementioned wallet, it has been spent.
 
@@ -89,7 +89,7 @@
 3. We estimate that each project will get funded within a range of 10 to 20% of the total amount of tokens received. The amount of the subsidy that each project receives will depend both on the amount quoted by our partner auditors for their codebase and on the perceived quality and impact of the project for Optimism. We will not subsidize the entire cost of an audit even if it is below the $100k threshold.
 4. We expect to have completed the selection of applicant and calculated the amounts of subsidies to be distributed 6 months after the start of the project. Distribution will start immediately thereafter.
 5. The subsidies are meant to help projects deploy on Optimism by subsidizing and potentially speeding up the auditing process. We will select projects based on their impact and long-term alignment with Optimism to ensure that they continue to deploy, grow and bring new users to the Superchain long after their initial deployment.
-6. The Vyper optimism multisig for this project is  `0x7e2775779a97F54168AB70B26cA4a8179966c6A4_change_to_new_msig`. The multisig will only be used to claim and distribute tokens from this grant. If the OP is not in contracts or this wallet, it has been spent.
+6. The Vyper optimism multisig for this project is  `oeth:0x10E13a2bbD74b31A35d419f374e49c891748352B`. The multisig will only be used to claim and distribute tokens from this grant. If the OP is not in contracts or this wallet, it has been spent.
 
 ### Optimism relationship
 
